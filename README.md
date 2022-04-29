@@ -1,6 +1,6 @@
 # React Meetups
 
-This is an app for exploring the functionality offered by [NextJS](https://nextjs.org/). It is part of a course by [Academind](https://www.udemy.com/course/react-the-complete-guide-incl-redux/). This site is hosted on [Vercel](https://vercel.com/) at [Link](https://react-meetups-mu.vercel.app/).
+This is an app for exploring the functionality offered by [NextJS](https://nextjs.org/). It is part of a course by [Academind](https://www.udemy.com/course/react-the-complete-guide-incl-redux/). This site is hosted on [Vercel](https://vercel.com/) right [here](https://react-meetups-mu.vercel.app/).
 
 ## Features
 
